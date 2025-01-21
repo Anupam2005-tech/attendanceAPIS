@@ -6,4 +6,7 @@ STEP 2:
 Create an .env file and give the necessary details:
 give algorithm:*****
 GET THE SECRET CODE OF YOUR:
-Use (openssl rand -hex 32) to get it
+Use (openssl rand -hex 32) to get it.
+
+STEP 3:
+Open the file and run it using uvicorn.main --reload
